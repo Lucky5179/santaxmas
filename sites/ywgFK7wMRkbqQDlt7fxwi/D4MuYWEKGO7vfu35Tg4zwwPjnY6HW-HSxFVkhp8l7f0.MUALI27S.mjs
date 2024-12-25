@@ -4012,7 +4012,7 @@ var ui = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                             layoutId: "kVOLVb3XI",
                             style: { height: "100%", width: "100%" },
                             TeZLuQw15:
-                              "https://dexscreener.com/",
+                              "https://dexscreener.com/ethereum/0xbd31bc0d0e61fc99ec07ec0ecfa290edbce4af09",
                             width: "100%",
                           }),
                         }),
@@ -10541,7 +10541,7 @@ var qt = ur(te),
                       className: "framer-fwkex2",
                       children: [
                         e(q, {
-                          href: "https://dexscreener.com/",
+                          href: "https://dexscreener.com/ethereum/0xbd31bc0d0e61fc99ec07ec0ecfa290edbce4af09",
                           nodeId: "tzzDRX7ne",
                           children: e(S, {
                             breakpoint: n,
