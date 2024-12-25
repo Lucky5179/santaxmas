@@ -1,0 +1,2 @@
+function e(t,a){return{description:" Does it feel like we've all lost a bit of the Christmas spirit in recent years?  Santa is here to bring it back! Help him collect all the presents in the game, and you'll earn $3,000 in $XMAS tokens. ",favicon:"/assets/p6rv1CabMDmPOdb7OcJxBkYwM.png",robots:"max-image-preview:large",socialImage:"/assets/5GgdDmEvd6A250O9wvgNXNLwN2Y.png",title:"$XMAS"}}export{e as a};
+//# sourceMappingURL=chunk-I6PKUJFK.mjs.map
