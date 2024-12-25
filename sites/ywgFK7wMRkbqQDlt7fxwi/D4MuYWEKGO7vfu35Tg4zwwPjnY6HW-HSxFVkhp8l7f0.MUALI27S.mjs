@@ -4061,7 +4061,7 @@ var ui = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                             layoutId: "CafVTJW_r",
                             style: { height: "100%", width: "100%" },
                             TeZLuQw15:
-                              "https://www.dextools.io/",
+                              "https://www.dextools.io/app/en/token/samtaxmas?t=1735156060361",
                             width: "100%",
                           }),
                         }),
@@ -10662,7 +10662,7 @@ var qt = ur(te),
                           }),
                         }),
                         e(q, {
-                          href: "https://www.dextools.io/",
+                          href: "https://www.dextools.io/app/en/token/samtaxmas?t=1735156060361",
                           nodeId: "OwO2_JUnM",
                           children: e(S, {
                             breakpoint: n,
