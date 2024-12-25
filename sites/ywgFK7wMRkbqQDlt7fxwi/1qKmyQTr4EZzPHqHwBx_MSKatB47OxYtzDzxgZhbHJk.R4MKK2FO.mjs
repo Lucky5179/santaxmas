@@ -1448,7 +1448,7 @@ var We = "framer-vFcpX",
                             name: "Telegram",
                             whileHover: B,
                             whileTap: Q,
-                            onclick:"window.open('https://t.me/santagameoneth','_blank')"
+                            onclick:"window.open('https://t.me/santaxmas_net','_blank')"
                           }),
                         }),
                       ],
